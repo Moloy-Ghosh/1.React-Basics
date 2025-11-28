@@ -1,4 +1,4 @@
-# 1.React-Basics  
+# 1. React Basics  
 **Learning Source:** Interactive Cares  
 
 ## 📄 Overview  
